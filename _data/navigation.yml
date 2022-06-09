@@ -1,14 +1,16 @@
 main:
   - title: "Home"
     url: /
+  - title: "Portfolio"
+    url: /portfolio/
   - title: "About"
     url: /about/
-  - title: "Resume"
-    url: /resume/
-  - title: "Research"
-    url: /about/
-  - title: "Maps"
-    url: /about/
+  #- title: "Resume"
+  #  url: /resume/
+  #- title: "Research"
+  #  url: /about/
+  #- title: "Maps"
+  #  url: /about/
   #- title: "Blogs"
   #  url: /blogs/
   #- title: "Posts"
