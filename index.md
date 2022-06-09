@@ -19,5 +19,6 @@ gallery:
     alt: "placeholder image 3"
     title: "Image 3 title caption"
 ---
+Under construction. Check back soon.
 
-{% include gallery caption="This is a sample gallery with **Markdown support**." %}
+<!--{% include gallery caption="This is a sample gallery with **Markdown support**." %}-->
