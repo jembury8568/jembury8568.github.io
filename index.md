@@ -19,12 +19,12 @@ gallery:
     alt: "placeholder image 3"
     title: "Image 3 title caption"
 ---
-<h3> Geographer, data scientist, human.</h3>{: .notice--warning}
+<h2> Geographer, data scientist, human.</h2>{: .notice--warning}
 
-I am a graduate student in the Geography Department at San Diego State University. I use geocomputational methods to research human dynamics and social equity. My research is solutions-oriented and has addressed health disparity, nutrition insecurity, and educational barriers.<br>
+<p>I am a graduate student in the Geography Department at San Diego State University. I use geocomputational methods to research human dynamics and social equity. My research is solutions-oriented and has addressed health disparity, nutrition insecurity, and educational barriers.</p><br>
 
-Click [here](https://jembury8568.github.io/portfolio/) to read more about my research.{: .notice}
+<p>Click [here](https://jembury8568.github.io/portfolio/) to read more about my research.</p>{: .notice}
 
-Click [here](https://jembury8568.github.io/about/) to find out more about me.{: .notice}
+<p>Click [here](https://jembury8568.github.io/about/) to find out more about me.</p>{: .notice}
 
 <!--{% include gallery caption="This is a sample gallery with **Markdown support**." %}-->
