@@ -19,12 +19,14 @@ gallery:
     alt: "placeholder image 3"
     title: "Image 3 title caption"
 ---
-<h1> Geographer, data scientist, human.</h1>{: .notice--warning}
+<h3> Geographer. Data scientist. Grad student. Human.</h3>
 
-<p>I am a graduate student in the Geography Department at San Diego State University. I use geocomputational methods to research human dynamics and social equity. My research is solutions-oriented and has addressed health disparity, nutrition insecurity, and educational barriers.</p><br>
+<p>I am a graduate student in the Geography Department at San Diego State University. I use geocomputational methods to research human dynamics and social equity. My research is solutions-oriented and has addressed health disparity, nutrition insecurity, and educational barriers.</p>
 
-<p>Click <b><a href="https://jembury8568.github.io/portfolio">here</a></b> to read more about my research.</p>{: .notice}
+<p>Click <b><a href="https://jembury8568.github.io/portfolio">here</a></b> to read more about my research.</p>{: .notice--warning}
 
-<p>Click <b><a href="https://jembury8568.github.io/about">here</a></b> to find out more about me.</p>{: .notice}
+<p>Click <b><a href="https://jembury8568.github.io/about">here</a></b> to find out more about me.</p>{: .notice--warning}
+
+<p>Let's connect on <a href="https://www.linkedin.com/in/jessica-embury/">LinkedIn</a> or <a href="https://twitter.com/jlembury234">Twitter</a>!</p>
 
 <!--{% include gallery caption="This is a sample gallery with **Markdown support**." %}-->
