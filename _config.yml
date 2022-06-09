@@ -13,7 +13,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+minimal_mistakes_skin: "dirt" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+locale: "en-US"
 title: "Jessica Embury"
+subtitle: "gisjess.com"
+name: "Jessica Embury"
+url: "https://jembury8568.github.io/"
+repository: "jembury8568/jembury8568.github.io"
+logo: "/assets/images/gisjesslogo.png"
 email: "jessica@gisjess.com"
 description: >- # this means to ignore newlines until "baseurl:"
  "Graduate student at SDSU using GIS and spatial modeling to research human dynamics and social equity."
