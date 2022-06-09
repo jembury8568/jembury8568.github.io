@@ -1,6 +1,6 @@
 ---
 title: "COVID-19 Health Disparity"
-date: 2022-06-09 13:00
+date: 2022-06-09 11:00
 categories:
   - Research
 tags:
