@@ -5,7 +5,11 @@ main:
     url: /about/
   - title: "Resume"
     url: /resume/
-  - title: "Blogs"
-    url: /blogs/
+  - title: "Research"
+    url: /about/
+  - title: "Maps"
+    url: /about/
+  #- title: "Blogs"
+  #  url: /blogs/
   #- title: "Posts"
   #  url: /posts/
