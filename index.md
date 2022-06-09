@@ -20,6 +20,6 @@ gallery:
     title: "Image 3 title caption"
 ---
 Under construction. Check back soon.
-{: .notice--danger}
+{: .notice--warning}
 
 <!--{% include gallery caption="This is a sample gallery with **Markdown support**." %}-->
