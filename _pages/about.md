@@ -3,21 +3,18 @@ permalink: /about/
 title: "About"
 ---
 
-<h1>Here is some information about me... Interview style!</h1>{: .notice}
+<h3>Here is some information about me... Interview style!</h3>
 
-Name:
->*Jessica Embury*
-<br>
+<p><b>Name:</b><br>
+  <em>Jessica Embury</em></p>{: .notice}
 
-Current Role:
->*Graduate research assistant at San Diego State University (SDSU)*
-<br>
+<p><b>Current Role:</b><br>
+  <em>Graduate research assistant at San Diego State University (SDSU)</em></p>{: .notice}
 
-What do you do at SDSU?
->*I use spatial analysis and modeling to study human dynamics. 
->For my thesis, I am developing a simulation model of regular mobility and activity in San Diego County.* 
->
->*I am also a research assistant for the Encoding Geography project - a collaboration spanning 7 organizations that is building a framework for developing inclusive and community responsive geocomputational curricula.*
+<p><b>What do you do at SDSU?</b><br>
+<em>I use spatial analysis and modeling to study human dynamics. 
+For my thesis, I am developing a simulation model of regular mobility and activity in San Diego County. <br><br>
+I am also a research assistant for the Encoding Geography project - a collaboration spanning 7 organizations that is building a framework for developing inclusive and community responsive geocomputational curricula.</em></p>{: .notice}
 <br>
 
 What do you like about studying at SDSU?
