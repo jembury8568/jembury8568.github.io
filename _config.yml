@@ -23,8 +23,8 @@ logo: "/assets/images/gisjesslogo.png"
 email: "jessica@gisjess.com"
 description: >- # this means to ignore newlines until "baseurl:"
  "Graduate student at SDSU using GIS and spatial modeling to research human dynamics and social equity."
-twitter_username: jlembury234
-github_username: jembury8568
+twitter_username: "jlembury234"
+github_username: "jembury8568"
 search: true
 
 # Build settings
