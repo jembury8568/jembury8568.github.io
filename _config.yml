@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Jessica Embury
-email: jessica@gisjess.com
+title: "Jessica Embury"
+email: "jessica@gisjess.com"
 description: >- # this means to ignore newlines until "baseurl:"
- SDSU grad student using GIS and spatial modeling to research human dynamics and social equity.
+ "Graduate student at SDSU using GIS and spatial modeling to research human dynamics and social equity."
 twitter_username: jlembury234
 github_username: jembury8568
 minimal_mistakes_skin: default
@@ -56,13 +56,20 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Jessica Embury"
-  avatar : "/assets/images/jemb2022.jpg"
-  bio    : "Graduate student at SDSU using GIS and spatial modeling to research human dynamics and social equity."
+  name    : "Jessica Embury"
+  avatar  : "/assets/images/jemb2022.jpg"
+  bio     : "Graduate student at SDSU using GIS and spatial modeling to research human dynamics and social equity."
+  location: "San Diego, CA"
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:jessica@gisjess.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://gisjess.com"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/jessica-embury/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/jlembury234"
@@ -75,6 +82,9 @@ author:
 
 footer:
   links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/jessica-embury/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/jlembury234"
