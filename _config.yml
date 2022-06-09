@@ -16,7 +16,7 @@
 title: Jessica Embury
 email: jessica@gisjess.com
 description: >- # this means to ignore newlines until "baseurl:"
- SDSU grad student researching human dynamics and social equity.
+ SDSU grad student using GIS and spatial modeling to research human dynamics and social equity.
 twitter_username: jlembury234
 github_username: jembury8568
 minimal_mistakes_skin: default
@@ -56,7 +56,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Jessica Embury"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
