@@ -3,4 +3,4 @@ permalink: /about/
 title: "About"
 ---
 
-Check back soon.
+<p>Under construction. Check back soon.</p>{: .notice--warning}
