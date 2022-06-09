@@ -1,6 +1,7 @@
 ---
 permalink: /portfolio/
 title: "Portfolio"
+layout: portfolio
 ---
 
-Check back soon.
+<p>Under construction. Check back soon.</p>{: .notice--warning}
