@@ -32,7 +32,7 @@ The 3-minute project video provides details about the analysis.
 
 ***
 
-### Objectives & Questions  
+### Objectives  
 In my analysis of iNaturalist users in the United States, I addressed two research questions:
 1. How has the spatial distribution of iNaturalist users changed from 2014 to 2020?
 2. What is the typical behavior of an iNaturalist user?
