@@ -21,8 +21,8 @@ sidebar:
 ### Overview
 The San Diego Regional Water Quality Control Board and the SDSU Sage Project teamed up to identify high-risk dry cleaning sites in San Diego County. As a project manager, I developed a Python package to geocode business addresses, created a remote validation process to verify site locations, performed spatial analysis to determine each site's potential risk to community health, and built a spatial database.
 
-<p>"Hazardous chemicals used in traditional dry-cleaning methods pose a serious threat to population health when spilled or discharged illegally into the environment. Children, the elderly, individuals with certain medical conditions, or those living in disadvantaged communities are at even greater risk. San Diego State University students collaborated with the San Diego Regional Water Quality Control Board to identify current and historic dry-cleaning sites and assess each site’s risk to human health using spatial analysis techniques."<br><br>
-<em>Embury J. (2021). Identification of High-Risk Dry Cleaning Sites in San Diego County: Spatial Analysis [Technical report], p.6. The Sage Project at San Diego State University. https://digitallibrary.sdsu.edu/islandora/object/sdsu%3A139137</em></p>{:.notice}
+<p><em>"Hazardous chemicals used in traditional dry-cleaning methods pose a serious threat to population health when spilled or discharged illegally into the environment. Children, the elderly, individuals with certain medical conditions, or those living in disadvantaged communities are at even greater risk. San Diego State University students collaborated with the San Diego Regional Water Quality Control Board to identify current and historic dry-cleaning sites and assess each site’s risk to human health using spatial analysis techniques."</em><br><br>
+Embury J. (2021). Identification of High-Risk Dry Cleaning Sites in San Diego County: Spatial Analysis [Technical report], p.6. The Sage Project at San Diego State University. https://digitallibrary.sdsu.edu/islandora/object/sdsu%3A139137</p>{:.notice}
 
 In this 4-minute video, I describe the project's spatial analysis.
 
@@ -30,30 +30,32 @@ In this 4-minute video, I describe the project's spatial analysis.
 
 ***
 
-### Objectives & Questions  
-In my analysis of iNaturalist users in the United States, I addressed two research questions:
-1. How has the spatial distribution of iNaturalist users changed from 2014 to 2020?
-2. What is the typical behavior of an iNaturalist user?
+### Objectives
+The Water Board considered a dry-cleaning site to be "high-risk" if it was located in an underserved community or near a sensitive receptor site.
+
+<p><b>Key Term:</b> Sensitive receptor sites are places where individuals with elevated health risks to pollution exposure spend their time. For the analysis, I included schools, child care centers, hospitals, hospice and long-term care facilities, parks, and residences.</p>{:.notice}
+
+Therefore, our project had two objectives:
+1. Identify dry-cleaning sites located in underserved communities.
+2. Identify dry-cleaning sites located near sensitive receptor sites.
 
 ***
 
 ### Data
-* iNaturalist GBIF DarwinCore Archive - [Link](https://www.gbif.org/dataset/50c9509d-22c7-4a22-a47d-8c48425ef4a7)
-* American Community Survey - [Link](https://www.census.gov/programs-surveys/acs)
-* TIGER/Line Shapefiles - [Link](https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html)
+* San Diego County Dry-Cleaning Site List (Compiled by SDSU students)
+* OEHHA CalEnviroScreen 3.0 Data - [Link](https://oehha.ca.gov/calenviroscreen/report/calenviroscreen-30)
+* SANDAG Shapefiles - [Link](https://www.sandag.org/index.asp?subclassid=100&fuseaction=home.subclasshome)
 
 ***
 
 ### Skills & Tools
-* Database Management
-  * PostgreSQL
-  * PostGIS
 * Scripting
   * Python
-  * Pandas
-  * Matplotlib
-* Cartography
+  * OSGeo
+  * GeoPy
+* GIS (Spatial Analysis & Cartography)
   * ArcGIS Pro
+  * ArcGIS Online
 
 ***
 
