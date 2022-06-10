@@ -2,6 +2,13 @@
 permalink: /about/
 title: "About"
 classes: wide
+
+header:
+  image: /assets/images/globes-header.jpg
+  caption: "Photo by [Arthur Edelmans](https://unsplash.com/@arthuredelmans_) on [Unsplash](https://unsplash.com/)"
+  # actions:
+  #   - label: "More Info"
+  #     url: "https://unsplash.com"
 ---
 
 <h3>Here is some information about me... Interview style!</h3>
