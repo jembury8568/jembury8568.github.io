@@ -9,4 +9,9 @@ tags:
   - Mapping
 ---
 
-Check back soon.
+A collaborative project investigates the behavior of iNaturalist users across space and time.
+
+{% include video id="MSizZulIYZw" provider="youtube" %}
+
+Check back soon.{:.notice--warning}
+
