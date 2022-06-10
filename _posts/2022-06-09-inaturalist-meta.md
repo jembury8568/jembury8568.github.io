@@ -11,6 +11,11 @@ tags:
   - Mapping
  
 classes: wide
+layout: single
+
+header:
+  image: /assets/images/globes-header.jpg
+  caption: "Photo by [Arthur Edelmans](https://unsplash.com/@arthuredelmans_) on [Unsplash](https://unsplash.com/)"
 
 sidebar:
   title: "Sections"
