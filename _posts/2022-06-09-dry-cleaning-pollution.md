@@ -33,7 +33,7 @@ In this 4-minute video, I describe the project's spatial analysis.
 ### Objectives
 The Water Board considered a dry-cleaning site to be "high-risk" if it was located in an underserved community or near a sensitive receptor site.
 
-<p><b>Key Term:</b> Sensitive receptor sites are places where individuals with elevated health risks to pollution exposure spend their time. For the analysis, I included schools, child care centers, hospitals, hospice and long-term care facilities, parks, and residences.</p>{:.notice}
+<p><b>Key Term:</b> Sensitive receptor sites are places where individuals with elevated health risks when exposed to pollution spend their time. For the analysis, I included schools, child care centers, hospitals, hospice and long-term care facilities, parks, and residences.</p>{:.notice}
 
 Therefore, our project had two objectives:
 1. Identify dry-cleaning sites located in underserved communities.
@@ -60,24 +60,24 @@ Therefore, our project had two objectives:
 ***
 
 ### Methods
-I loaded the data into a PostgreSQL database, then cleaned and preprocessed the data with SQL commands. I used the PostGIS extension for spatial operations - such as calculation of observation centroids and observation-centroid distances. I then used Python's Pandas and Matplotlib libraries to find summary statistics and genrate graphs. I created maps in ArcGIS Pro.
+***Geocoding & Remote Validation***  
+I created a Python package to geocode addresses from a list of dry-cleaning sites. Each geocoded address returned latitude and longitude coordinates from 4 geocoding service providers. I then developed a remote validation procedure to compare the 4 points to satellite imagery and select the most accurate coordinates for the dry-cleaning site.
+
+[Geocoding Package](https://github.com/jlembury/Sage_Project){: .btn .btn--primary .btn--large}
+
+***Spatial Analysis***
+Using the validated dry-cleaning locations, I used GIS and a spatial overlay operations to find all sites within [underserved communities](https://oehha.ca.gov/calenviroscreen/sb535). I then generated tables listing all dry-cleaning sites within 300, 500, or 1000 feet of a sensitive receptor site. Spatial analysis results were joined to the dry-cleaning site point features and included in a spatial geodatabase.
 
 ***
 
 ### Results
-***Spatial Distribution of iNaturalist Users in the US***  
-Early iNaturalist observations were centered around San Francisco and Los Angeles, then spread in the Eastern Seaboard and Texas. By 2016, hot spots in the Pacific Northwest, the Great Lakes region, and Denver began to emerge. By September of 2020, additional hot spots in Florida, Arizona, and throughout the Eastern United States appeared.
+A geodatabase with all project data and analysis results was delivered to the Water Board, along with a technical report. The team also presented the project at the June 2021 San Diego Regional Water Quality Control Board meeting.  
 
-![A heat map of the US showing growth of the iNaturalist platform as it spreads from urban centers.]({{ site.url }}{{ site.baseurl }}/assets/images/research-inat-map.gif)  
-*iNaturalist users spread across the United States as the community grew from 8,998 users in 2014 to 138,990 users in 2020, as of September 25th.* 
-
-***Additional Insights***  
-The total number of users and total observations grew rapidly, especially during 2018 - 2019. Although 2020 data ends at September 25th, total users and observations still increased. However, the number of observations per user and the mean distance from the user centroids both decreased in 2020, possibly idue to COVID-19 shut down orders. The mean distance between observations and a user's centroid indicate whether individual observations tend to be spread out across large distances or tightly clustered. 
-
-![Line graphs showing number of users and observations from 2014 to 2020 with steady growth early on that increased more rapidly in 2018 and 2019. Other line graphs show the number of observations per user (highest in 2017-2018) and mean distance from user centroid (extreme decrease in 2020).]({{ site.url }}{{ site.baseurl }}/assets/images/research-inat-graphs.png) 
+37 of the 522 dry-cleaning sites were located in underserved communities. 73% of these sites are in the South and Central regions of the county.  
+![A bar chart shows the division of dry-cleaning sites by HHSA region: 131 in North Central, 110 in North Coastal, 77 in East, 54 in South, 55 in Central, and 58 in North Inland.]({{ site.url }}{{ site.baseurl }}/assets/images/research-drycleaning-barchart.png)
 
 ***
 
 ### Learn More
-Visit the project's [website](https://sites.google.com/view/inaturalistmetaanalysis/home){:target="_blank"} for more information.
+Read the [technical report](https://digitallibrary.sdsu.edu/islandora/object/sdsu%3A139137){:target="_blank"} for more information.
 
