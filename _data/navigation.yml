@@ -21,8 +21,8 @@ sidebar-inat:
     children:
     - title: Overview
       url: /research/inaturalist-meta/#overview
-    - title: Objectives & Questions
-      url: /research/inaturalist-meta/#objectives--questions
+    - title: Objectives
+      url: /research/inaturalist-meta/#objectives
     - title: Data
       url: /research/inaturalist-meta/#data
     - title: Skills & Tools
@@ -42,8 +42,8 @@ sidebar-drycleaning:
     children:
     - title: Overview
       url: /research/dry-cleaning-pollution/#overview
-    - title: Objectives & Questions
-      url: /research/dry-cleaning-pollution/#objectives--questions
+    - title: Objectives
+      url: /research/dry-cleaning-pollution/#objectives
     - title: Data
       url: /research/dry-cleaning-pollution/#data
     - title: Skills & Tools
