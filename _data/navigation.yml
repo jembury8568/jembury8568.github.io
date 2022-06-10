@@ -22,7 +22,7 @@ sidebar-inat:
     - title: Objectives & Questions
       url: /research/inaturalist-meta/#objectives--questions
     - title: Data
-      urlL: /research/inaturalist-meta/#data
+      url: /research/inaturalist-meta/#data
     - title: Skills & Tools
       url: /research/inaturalist-meta/#skills--tools
     - title: Methods
@@ -31,3 +31,5 @@ sidebar-inat:
       url: /research/inaturalist-meta/#results
     - title: Learn More
       url: /research/inaturalist-meta/#learn-more
+    - title: Return to Top
+      url: /research/inaturalist-meta/#top
