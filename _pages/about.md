@@ -10,9 +10,6 @@ header:
   #   - label: "More Info"
   #     url: "https://unsplash.com"
 ---
-
-<h3>Here is some information about me... Interview style!</h3>
-
 <p><b>Name:</b><br>
   <em>Jessica Embury</em></p>{: .notice}
 
