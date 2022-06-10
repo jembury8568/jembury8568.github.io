@@ -35,3 +35,24 @@ sidebar-inat:
       url: /research/inaturalist-meta/#learn-more
     - title: Return to Top
       url: /research/inaturalist-meta/#top
+
+
+sidebar-drycleaning:
+  - title: "Sections"
+    children:
+    - title: Overview
+      url: /research/dry-cleaning-pollution/#overview
+    - title: Objectives & Questions
+      url: /research/dry-cleaning-pollution/#objectives--questions
+    - title: Data
+      url: /research/dry-cleaning-pollution/#data
+    - title: Skills & Tools
+      url: /research/dry-cleaning-pollution/#skills--tools
+    - title: Methods
+      url: /research/dry-cleaning-pollution/#methods
+    - title: Results
+      url: /research/dry-cleaning-pollution/#results
+    - title: Learn More
+      url: /research/dry-cleaning-pollution/#learn-more
+    - title: Return to Top
+      url: /research/dry-cleaning-pollution/#top
