@@ -12,6 +12,7 @@ tags:
  
 # classes: wide
 # layout: single
+show_date: False
 
 header:
   image: /assets/images/globes-header.jpg
