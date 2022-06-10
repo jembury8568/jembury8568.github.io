@@ -19,7 +19,9 @@ sidebar:
       
 ---
 ### Overview
+<p>Hazardous chemicals used in traditional dry-cleaning methods pose a serious threat to population health when spilled or discharged illegally into the environment. Children, the elderly, individuals with certain medical conditions, or those living in disadvantaged communities are at even greater risk. San Diego State University students collaborated with the San Diego Regional Water Quality Control Board to identify current and historic dry-cleaning sites and assess each site’s risk to human health using spatial analysis techniques.
 
+<em>Embury J. (2021). Identification of High-Risk Dry Cleaning Sites in San Diego County: Spatial Analysis [Technical report], p.6. The Sage Project at San Diego State University. https://digitallibrary.sdsu.edu/islandora/object/sdsu%3A139137</em></p>{:.notice}
 
 Watch this 4-minute video to hear about the project's spatial analysis.
 
