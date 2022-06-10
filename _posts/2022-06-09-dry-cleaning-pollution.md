@@ -75,7 +75,7 @@ Using the validated dry-cleaning locations, I used GIS and a spatial overlay ope
 ![A bar chart shows the division of dry-cleaning sites by HHSA region: 131 in North Central, 110 in North Coastal, 77 in East, 54 in South, 55 in Central, and 58 in North Inland.]({{ site.url }}{{ site.baseurl }}/assets/images/research-drycleaning-barchart.png)  
 *Distribution of dry-cleaning sites by San Diego County Health and Human Services (HHSA) region.*
 
-The potential impact of dry-cleaning pollution on sensitive receptor rates varied greatly by the selected distance range. Nearly 16% of the dry-cleaning sites have one or more sensitive receptor sites within 300 feet. Child care facilities and schools are the sensitive receptor sites most frequently found near a dry-cleaning site.<br><br>
+The potential impact of dry-cleaning pollution on sensitive receptor rates varied greatly by the selected distance range. Nearly 16% of the dry-cleaning sites have one or more sensitive receptor sites within 300 feet. 100 sensitive receptor sites are within 300 feet of a dry-cleaning site, including 40 child care facilities and 34 schools.<br><br>
 ![A pie chart shows the proportion of sensitive receptor sites within 300 feet of a dry-cleaning site, by category. In descending order, the categories are child care facilities, schools, parks, colleges, hospitals, and healthcare facilities.]({{ site.url }}{{ site.baseurl }}/assets/images/research-drycleaning-piechart.png)  
 *The proportion of sensitive receptor sites within 300 feet of a dry-cleaning site, by category.*
 
