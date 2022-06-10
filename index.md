@@ -29,7 +29,7 @@ gallery:
 ---
 <h3> Geographer. Data scientist. Grad student. Human.</h3>
 
-<p>I am a graduate student in the Geography Department at San Diego State University. I use geocomputational methods to research human dynamics and social equity. My research is solutions-oriented and has addressed health disparity, nutrition insecurity, and educational barriers.</p>
+<p>I am a graduate student in the Geography Department at San Diego State University. I use geocomputational methods to research human dynamics and social equity. My research is solutions-oriented and I have provided geospatial support to projects that address health disparity, nutrition insecurity, and educational barriers.</p>
 
 <p>Click <b><a href="https://jembury8568.github.io/portfolio">here</a></b> to read about my research.</p>{: .notice--warning}
 
