@@ -71,8 +71,7 @@ Using the validated dry-cleaning locations, I used GIS and a spatial overlay ope
 ***
 
 ### Results
-A geodatabase with all project data and analysis results was delivered to the Water Board, along with a technical report. The team also presented the project at the June 2021 San Diego Regional Water Quality Control Board meeting.<br><br>
-37 of the 522 dry-cleaning sites were located in underserved communities. 73% of these sites are in the South and Central regions of the county.  
+A geodatabase with all project data and analysis results was delivered to the Water Board, along with a technical report. The team also presented the project at the June 2021 San Diego Regional Water Quality Control Board meeting. 37 of the 522 dry-cleaning sites were located in underserved communities. 73% of these sites are in the South and Central regions of the county.<br><br>
 ![A bar chart shows the division of dry-cleaning sites by HHSA region: 131 in North Central, 110 in North Coastal, 77 in East, 54 in South, 55 in Central, and 58 in North Inland.]({{ site.url }}{{ site.baseurl }}/assets/images/research-drycleaning-barchart.png)  
 *Distribution of dry-cleaning sites by San Diego County Health and Human Services (HHSA) region.*
 
