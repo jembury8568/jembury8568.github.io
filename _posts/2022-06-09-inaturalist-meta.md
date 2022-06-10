@@ -10,8 +10,8 @@ tags:
   - Databases
   - Mapping
  
-classes: wide
-layout: single
+# classes: wide
+# layout: single
 
 header:
   image: /assets/images/globes-header.jpg
