@@ -18,20 +18,8 @@ header:
   caption: "Photo by [Arthur Edelmans](https://unsplash.com/@arthuredelmans_) on [Unsplash](https://unsplash.com/)"
 
 sidebar:
-  title: "Sections"
-  children:
-    - title: Objectives & Questions
-      url: #objectives--questions
-    - title: Data
-      urlL: #data
-    - title: Skills & Tools
-      url: #skills--tools
-    - title: Methods
-      url: #methods
-    - title: Results
-      url: #results
-    - title: Learn More
-      url: #learn-more
+  title: "Post Navigation"
+  nav: sidebar-inat
       
 ---
 
