@@ -23,7 +23,7 @@ sidebar:
   nav: sidebar-inat
       
 ---
-
+### Overview
 In an exploration of citizen science, this collaborative project investigated the behavior of iNaturalist users across space and time. 
 
 The 3-minute project video provides details about the analysis.
@@ -32,8 +32,7 @@ The 3-minute project video provides details about the analysis.
 
 ***
 
-### Objectives & Questions
-
+### Objectives & Questions  
 In my analysis of iNaturalist users in the United States, I addressed two research questions:
 1. How has the spatial distribution of iNaturalist users changed from 2014 to 2020?
 2. What is the typical behavior of an iNaturalist user?
@@ -61,13 +60,11 @@ In my analysis of iNaturalist users in the United States, I addressed two resear
 ***
 
 ### Methods
-
 I loaded the data into a PostgreSQL database, then cleaned and preprocessed the data with SQL commands. I used the PostGIS extension for spatial operations - such as calculation of observation centroids and observation-centroid distances. I then used Python's Pandas and Matplotlib libraries to find summary statistics and genrate graphs. I created maps in ArcGIS Pro.
 
 ***
 
 ### Results
-
 ***Spatial Distribution of iNaturalist Users in the US***  
 Early iNaturalist observations were centered around San Francisco and Los Angeles, then spread in the Eastern Seaboard and Texas. By 2016, hot spots in the Pacific Northwest, the Great Lakes region, and Denver began to emerge. By September of 2020, additional hot spots in Florida, Arizona, and throughout the Eastern United States appeared.
 
