@@ -6,8 +6,8 @@ layout: home
 author_profile: true
 
 header:
-  overlay_image: /assets/images/nasa_header-bar1.jpg
-  caption: ""Photo by [NASA](https://unsplash.com/@nasa?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/)""
+  image: /assets/images/nasa_header-bar1.jpg
+  caption: "Photo by [NASA](https://unsplash.com/@nasa?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/)"
   # actions:
   #   - label: "More Info"
   #     url: "https://unsplash.com"
