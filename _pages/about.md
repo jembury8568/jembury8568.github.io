@@ -1,6 +1,7 @@
 ---
 permalink: /about/
 title: "About"
+classes: wide
 ---
 
 <h3>Here is some information about me... Interview style!</h3>
