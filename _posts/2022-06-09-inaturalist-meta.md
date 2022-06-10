@@ -82,4 +82,4 @@ The total number of users and total observations grew rapidly, especially during
 ***
 
 ### Learn More
-Visit the project's [website](https://sites.google.com/view/inaturalistmetaanalysis/home) for more information.
+Visit the project's [website](https://sites.google.com/view/inaturalistmetaanalysis/home){:target="_blank"} for more information.
