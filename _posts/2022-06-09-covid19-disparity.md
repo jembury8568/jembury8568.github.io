@@ -18,7 +18,7 @@ sidebar:
       
 ---
 ### Overview
-
+Beginning March 2020, I researched COVID-19 health disparity and population vulnerability in San Diego County with the Center for Human Dynamics in the Mobile Age (HDMA) at SDSU. I am a major contributor to the HDMA Center's COVID-19 Research Hub, which featured daily data updates during the peak of the pandemic. I also provided spatial support to an interdisciplinary SDSU project that brought mobile COVID-19 testing centers into underserved communities.
 
 I presented my work from March 2020 - March 2021 at the American Association of Geographers Annual Meeting in April 2021. (11 minutes)
 
