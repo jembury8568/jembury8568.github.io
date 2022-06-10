@@ -24,6 +24,8 @@ I presented my work from March 2020 - March 2021 at the American Association of 
 
 {% include video id="1sjUQt0qqXRqlDF49uGvbR66_7FuTvzb2" provider="google" %}
 
+After the presentation, I extended the research to include spatial modeling of chronic disease to indicate COVID-19 population vulnerability.
+
 ***
 
 ### Objectives
