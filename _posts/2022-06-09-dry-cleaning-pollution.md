@@ -63,7 +63,7 @@ Therefore, our project had two objectives:
 ***Geocoding & Remote Validation***  
 I created a Python package to geocode addresses from a list of dry-cleaning sites. Each geocoded address returned latitude and longitude coordinates from 4 geocoding service providers. I then developed a remote validation procedure to compare the 4 points to satellite imagery and select the most accurate coordinates for the dry-cleaning site.
 
-[Geocoding Package](https://github.com/jlembury/Sage_Project){: .btn .btn--primary .btn--large}
+[Geocoding Package](https://github.com/jlembury/Sage_Project){: .btn .btn--primary .btn--large}{:target="_blank"}
 
 ***Spatial Analysis***
 Using the validated dry-cleaning locations, I used GIS and a spatial overlay operations to find all sites within [underserved communities](https://oehha.ca.gov/calenviroscreen/sb535). I then generated tables listing all dry-cleaning sites within 300, 500, or 1000 feet of a sensitive receptor site. Spatial analysis results were joined to the dry-cleaning site point features and included in a spatial geodatabase.
