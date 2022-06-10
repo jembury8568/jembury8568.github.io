@@ -21,7 +21,14 @@ I am also a research assistant for the Encoding Geography project - a collaborat
 
 <p><b>What are your credentials and achievements?</b><br>
 <em>I have a B.S. in Geography and am working on a M.S. in Geographic Information Science. I have collaborated on a number of interdisciplinary research projects on topics related to public health and food landscapes. I also worked as a GIS intern for the City of San Diego's Open Space Division.<br><br>
-My research has been recognized by my university (SDSU), Esri, the American Association of Geographers (AAG), and the Association of Pacific Coast Geographers (APCG). I am honored to be a recipient of SDSU's 2022-23 University Graduate Fellowship and 2021-22 Master's Research Scholarship, Esri Innovation Program's <a href="https://community.esri.com/t5/education-blog/2021-esri-innovation-program-students-of-the-year/ba-p/1073601">2021 Student of the Year Award</a>, AAG's <a href="https://www.aag.org/award-grant/marble-boyle/">2021 Marble-Boyle Undergraduate Achievement Award in Geographic Science</a>, and APCG's <a href="https://www.csusm.edu/geography/documents/2021_apcg_student_awards_notification.pdf">2021 Geosystems Award for Excellence in Applied Geography</a>.</em></p>{: .notice}
+I have received several awards recognizing my research: 
+  <ul>
+    <li>SDSU's 2022-23 University Graduate Fellowship and 2021-22 Master's Research Scholarship</li> 
+    <li>Esri Innovation Program's <a href="https://community.esri.com/t5/education-blog/2021-esri-innovation-program-students-of-the-year/ba-p/1073601">2021 Student of the Year Award</a></li>
+    <li>American Association of Geographer's <a href="https://www.aag.org/award-grant/marble-boyle/">2021 Marble-Boyle Undergraduate Achievement Award in Geographic Science</a></li>
+    <li>Association of Pacific Coast Geographer's <a href="https://www.csusm.edu/geography/documents/2021_apcg_student_awards_notification.pdf">2021 Geosystems Award for Excellence in Applied Geography</a></li>
+  </ul>
+  </em></p>{: .notice}
 
 <p><b>What are your favorite tools?</b><br>
 <em>Python and PostgreSQL with PostGIS. I work with a lot of big data, so programming and database skills are essential to my research.</em></p>{: .notice}
