@@ -17,8 +17,8 @@ main:
   #  url: /posts/
 
 sidebar-inat:
-  title: "Sections"
-  children:
+  - title: "Sections"
+    children:
     - title: Objectives & Questions
       url: /research/inaturalist-meta/#objectives--questions
     - title: Data
